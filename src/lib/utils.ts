@@ -13,3 +13,12 @@ export function formatDate(dateString: string, locale: string = "en"): string {
     day: "numeric",
   });
 }
+
+export function generateSlug(title: string): string {
+  return title
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, "")
+    .replace(/[\s_-]+/g, "-")
+    .replace(/^-+|-+$/g, "");
+}
