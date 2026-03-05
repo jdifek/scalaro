@@ -46,15 +46,15 @@ export default function CaseStudy() {
 
               <div className="space-y-5 mb-8">
                 <div className="border-l-2 border-red-400/40 pl-4">
-                  <div className="text-xs font-bold text-red-400 uppercase tracking-wide mb-1">🎯 {t("challenge")}</div>
+                  <div className="text-xs font-bold text-red-400 uppercase tracking-wide mb-1"> {t("challenge")}</div>
                   <p className="text-slate-300 text-sm leading-relaxed">{t("challengeText")}</p>
                 </div>
                 <div className="border-l-2 border-indigo-400/40 pl-4">
-                  <div className="text-xs font-bold text-indigo-400 uppercase tracking-wide mb-1">💡 {t("solution")}</div>
+                  <div className="text-xs font-bold text-indigo-400 uppercase tracking-wide mb-1"> {t("solution")}</div>
                   <p className="text-slate-300 text-sm leading-relaxed">{t("solutionText")}</p>
                 </div>
                 <div className="border-l-2 border-emerald-400/40 pl-4">
-                  <div className="text-xs font-bold text-emerald-400 uppercase tracking-wide mb-1">✅ {t("result")}</div>
+                  <div className="text-xs font-bold text-emerald-400 uppercase tracking-wide mb-1"> {t("result")}</div>
                   <p className="text-slate-300 text-sm leading-relaxed">{t("resultText")}</p>
                 </div>
               </div>

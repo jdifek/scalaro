@@ -21,7 +21,7 @@ export default function CTA() {
           {/* Left text */}
           <div>
             <div className="inline-flex items-center gap-2 px-4 py-2 bg-white/10 border border-white/20 rounded-full text-sm font-medium text-indigo-200 mb-6">
-              🚀 Launch in 72 hours
+               Launch in 72 hours
             </div>
             <h2 className="text-4xl lg:text-5xl font-bold text-white mb-4">{t("title")}</h2>
             <p className="text-xl text-indigo-200 mb-8">{t("subtitle")}</p>

@@ -38,8 +38,7 @@ export default async function RootLayout({ children }: { children: React.ReactNo
 
   return (
     <html lang={locale}>
-      <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <NextIntlClientProvider messages={messages}>
+<body className={`${geistSans.variable} ${geistMono.variable} font-sans antialiased`}>        <NextIntlClientProvider messages={messages}>
           {children}
         </NextIntlClientProvider>
       </body>

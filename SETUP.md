@@ -96,8 +96,8 @@ INSERT INTO blog_posts (title_en, title_ua, slug, published, excerpt_en, read_ti
   '<h2>Why White-Label Affiliate Tracking?</h2><p>Building your own affiliate tracking system from scratch takes months. White-label platforms give you all the functionality at a fraction of the cost.</p>'
 ),
 (
-  'Affiliate Fraud Prevention: The Complete 2025 Guide',
-  'Запобігання афіліатному фроду: Повний гід 2025',
+  'Affiliate Fraud Prevention: The Complete 2026 Guide',
+  'Запобігання афіліатному фроду: Повний гід 2026',
   'affiliate-fraud-prevention-guide',
   true,
   'Learn how to identify, prevent, and handle affiliate fraud.',
@@ -143,7 +143,7 @@ The app uses `next start` and requires a Node.js server.
 
 ---
 
-## CPA Network (Roadmap Q3 2025)
+## CPA Network (Roadmap Q3 2026)
 The `/products` page includes a "Coming Soon" badge for the CPA Network.
 When ready, create a new page at `/products/cpa-network`.
 
