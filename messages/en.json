@@ -1,0 +1,355 @@
+{
+  "nav": {
+    "products": "Products",
+    "tracking": "Affiliate Tracking",
+    "platform": "Content Platform",
+    "pricing": "Pricing",
+    "cases": "Case Studies",
+    "blog": "Blog",
+    "contact": "Contact",
+    "getStarted": "Get Started",
+    "switchLang": "UA"
+  },
+  "hero": {
+    "badge": "Trusted by Fintech & SaaS companies since 2023",
+    "title": "White-Label Software That Scales Your Business",
+    "subtitle": "Affiliate tracking & content platform built for MFIs, SaaS founders, and digital agencies. Launch in days, not months.",
+    "cta1": "Book a Demo",
+    "cta2": "See Products",
+    "stat1": "50+",
+    "stat1Label": "Active Partners",
+    "stat2": "12",
+    "stat2Label": "Countries",
+    "stat3": "$2M+",
+    "stat3Label": "Tracked Revenue",
+    "stat4": "99.9%",
+    "stat4Label": "Uptime SLA"
+  },
+  "whoFor": {
+    "title": "Built for Teams That Move Fast",
+    "subtitle": "We understand the unique challenges of growing businesses in competitive markets.",
+    "segments": [
+      {
+        "icon": "Building2",
+        "title": "MFIs & Fintech",
+        "problem": "Struggling to track affiliate ROI and manage partner relationships at scale?",
+        "solution": "Our tracking platform gives you real-time attribution, fraud prevention, and automated payouts.",
+        "result": "Cut acquisition costs by 35% and scale your affiliate network 3x faster."
+      },
+      {
+        "icon": "Rocket",
+        "title": "SaaS Founders",
+        "problem": "Need to launch an affiliate program without building tracking infrastructure from scratch?",
+        "solution": "White-label our battle-tested platform and have your affiliate program live in 72 hours.",
+        "result": "Focus on product, not infrastructure. Let us handle the tracking complexity."
+      },
+      {
+        "icon": "Pen",
+        "title": "Content Creators",
+        "problem": "Publishing on third-party platforms limits your monetization and audience ownership?",
+        "solution": "Our content platform gives you a branded home for your content with built-in monetization.",
+        "result": "Own your audience, grow your email list, and monetize content your way."
+      },
+      {
+        "icon": "Users",
+        "title": "Digital Agencies",
+        "problem": "Managing multiple clients' affiliate programs is a logistical nightmare?",
+        "solution": "One platform to manage all client programs with separate dashboards and reporting.",
+        "result": "Increase agency revenue by offering white-label affiliate management as a service."
+      }
+    ]
+  },
+  "products": {
+    "title": "Two Powerful Products, One Platform",
+    "subtitle": "Each product is fully white-labeled, battle-tested in production, and ready to scale with your business.",
+    "tracking": {
+      "title": "Affiliate Tracking Software",
+      "description": "Enterprise-grade affiliate tracking with real-time reporting, fraud protection, and automated payouts. Used by fintech companies managing thousands of affiliates.",
+      "features": [
+        "Real-time click and conversion tracking",
+        "Multi-touch attribution models",
+        "Fraud detection & prevention",
+        "Automated affiliate payouts",
+        "Custom commission structures",
+        "API-first architecture",
+        "White-label dashboard",
+        "Advanced reporting & analytics"
+      ],
+      "cta": "Learn More"
+    },
+    "platform": {
+      "title": "Content Platform",
+      "description": "A complete content management and publishing platform that helps businesses own their audience and monetize content at scale.",
+      "features": [
+        "Branded content hub",
+        "SEO-optimized article system",
+        "Newsletter & email capture",
+        "Content monetization tools",
+        "Analytics dashboard",
+        "Custom domain support",
+        "Multi-author management",
+        "Content distribution API"
+      ],
+      "cta": "Learn More"
+    }
+  },
+  "why": {
+    "title": "Why Companies Choose Scalaro",
+    "subtitle": "We're not just a software vendor. We're a growth partner for ambitious companies.",
+    "reasons": [
+      {
+        "icon": "Zap",
+        "title": "Launch in 72 Hours",
+        "description": "Our onboarding process is streamlined to get you live in 3 days. We handle the technical setup while you focus on strategy."
+      },
+      {
+        "icon": "Shield",
+        "title": "Enterprise Security",
+        "description": "SOC2-compliant infrastructure with 99.9% uptime SLA. Your data and your partners' data is always protected."
+      },
+      {
+        "icon": "TrendingUp",
+        "title": "Built to Scale",
+        "description": "From 10 to 10,000 affiliates, our platform scales with you. No performance degradation as you grow."
+      },
+      {
+        "icon": "Headphones",
+        "title": "Dedicated Support",
+        "description": "Every client gets a dedicated account manager. We're partners in your growth, not just a helpdesk ticket system."
+      },
+      {
+        "icon": "Code",
+        "title": "API-First Design",
+        "description": "Deep integration with your existing stack. Our comprehensive API lets you customize every aspect of the platform."
+      },
+      {
+        "icon": "Globe",
+        "title": "Multi-Region Ready",
+        "description": "Infrastructure deployed across 12 countries with local compliance support. Expand globally without technical barriers."
+      }
+    ]
+  },
+  "howItWorks": {
+    "title": "How Our Partnership Works",
+    "subtitle": "A proven process that gets you from interest to revenue in under a week.",
+    "steps": [
+      {
+        "step": "01",
+        "title": "Discovery Call",
+        "description": "We learn about your business, goals, and technical requirements. 30-minute call with our solutions team."
+      },
+      {
+        "step": "02",
+        "title": "Custom Proposal",
+        "description": "Within 24 hours, you receive a detailed proposal with pricing, implementation timeline, and success metrics."
+      },
+      {
+        "step": "03",
+        "title": "Technical Setup",
+        "description": "Our team configures the platform with your branding, integrates with your systems, and runs QA testing."
+      },
+      {
+        "step": "04",
+        "title": "Team Training",
+        "description": "We train your team on the platform through live sessions and provide comprehensive documentation."
+      },
+      {
+        "step": "05",
+        "title": "Live & Growing",
+        "description": "You go live with full support. Monthly reviews ensure you're hitting growth targets and we optimize continuously."
+      }
+    ]
+  },
+  "caseStudy": {
+    "badge": "Case Study",
+    "title": "How Finoglyad Scaled to 50,000+ Monthly Readers",
+    "subtitle": "Finoglyad.com is Ukraine's leading financial comparison portal, running on Scalaro's Content Platform since 2023.",
+    "metrics": [
+      { "value": "50K+", "label": "Monthly Readers" },
+      { "value": "2 Years", "label": "On Scalaro" },
+      { "value": "300%", "label": "Traffic Growth" },
+      { "value": "#1", "label": "Finance Portal UA" }
+    ],
+    "challenge": "Challenge",
+    "challengeText": "Finoglyad needed a robust content platform that could handle high traffic volumes, support Ukrainian language content, and integrate with their existing comparison engine. They were outgrowing their previous CMS.",
+    "solution": "Solution",
+    "solutionText": "We deployed our Content Platform with custom Ukrainian-language SEO optimization, integrated their comparison widgets, and built a custom analytics dashboard for their editorial team.",
+    "result": "Results",
+    "resultText": "Within 6 months, Finoglyad tripled their organic traffic and became the go-to financial comparison resource in Ukraine. The platform handles 50,000+ monthly visitors without any performance issues.",
+    "cta": "Read Full Case Study"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Everything you need to know about Scalaro and our products.",
+    "items": [
+      {
+        "q": "What does 'white-label' mean in your context?",
+        "a": "White-label means you get the full product under your own brand. Your logo, your domain, your colors. Your clients and partners never know you're using Scalaro. You own the relationship."
+      },
+      {
+        "q": "How long does it take to launch?",
+        "a": "For the Affiliate Tracking Software, typical setup is 3-5 business days. For the Content Platform, it's 2-3 days. Complex custom integrations may take 1-2 weeks. We provide a detailed timeline in every proposal."
+      },
+      {
+        "q": "What kind of support do you provide?",
+        "a": "Every client gets a dedicated account manager, access to our technical support team (response time < 4 hours), comprehensive documentation, and monthly strategy reviews. Enterprise clients get priority support with < 1 hour response time."
+      },
+      {
+        "q": "Do you offer custom development?",
+        "a": "Yes. If you need features beyond our standard offering, our development team can build custom integrations, workflows, and features. Custom development is scoped and priced separately from the platform license."
+      },
+      {
+        "q": "What payment methods do you support for affiliate payouts?",
+        "a": "Our tracking platform supports bank transfers, PayPal, cryptocurrency, and custom payment integrations. We can integrate with any payment processor via our API. Multi-currency support is included."
+      },
+      {
+        "q": "Is there a limit on the number of affiliates or content pieces?",
+        "a": "No hard limits on our Growth and Enterprise plans. Starter plans have soft limits that we'll discuss during onboarding. We're designed to scale with you."
+      },
+      {
+        "q": "How do you handle fraud prevention?",
+        "a": "Our tracking platform includes built-in fraud detection that monitors for click fraud, cookie stuffing, and conversion manipulation. We use IP analysis, device fingerprinting, and behavioral patterns to flag suspicious activity in real-time."
+      },
+      {
+        "q": "What's in the CPA Network roadmap?",
+        "a": "We're launching our own CPA Network in Q3 2025. Existing clients will get priority access and preferential rates. The network will focus on Fintech, SaaS, and e-commerce verticals."
+      },
+      {
+        "q": "Can I migrate from my current platform?",
+        "a": "Yes. We have migration tools and a dedicated migration team that has successfully moved clients from HasOffers, Post Affiliate Pro, Impact, and custom-built systems. We handle all data migration with zero downtime."
+      },
+      {
+        "q": "Do you have a free trial?",
+        "a": "We offer a 14-day free trial for the Content Platform. For the Affiliate Tracking Software, we do a personalized demo followed by a 30-day pilot program. Contact us to discuss what works best for your situation."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Scale Your Business?",
+    "subtitle": "Join 50+ companies already growing with Scalaro. Get your custom proposal within 24 hours.",
+    "primary": "Book a Free Demo",
+    "secondary": "View Pricing"
+  },
+  "footer": {
+    "description": "White-label software solutions for ambitious businesses. Affiliate tracking and content platforms built for scale.",
+    "products": "Products",
+    "company": "Company",
+    "resources": "Resources",
+    "legal": "Legal",
+    "about": "About Us",
+    "careers": "Careers",
+    "contact": "Contact",
+    "blog": "Blog",
+    "docs": "Documentation",
+    "status": "System Status",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "© 2025 Scalaro. All rights reserved.",
+    "tracking": "Affiliate Tracking",
+    "platform": "Content Platform",
+    "pricing": "Pricing",
+    "cases": "Case Studies"
+  },
+  "pricing": {
+    "title": "Simple, Transparent Pricing",
+    "subtitle": "No hidden fees. No surprises. Pay for what you use.",
+    "monthly": "Monthly",
+    "annual": "Annual",
+    "save": "Save 20%",
+    "tracking": {
+      "title": "Affiliate Tracking",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "299",
+          "description": "Perfect for early-stage affiliate programs",
+          "features": ["Up to 500 affiliates", "10M tracked events/mo", "Basic fraud detection", "Email support", "Standard reporting", "1 white-label domain"]
+        },
+        {
+          "name": "Growth",
+          "price": "699",
+          "description": "For growing affiliate programs",
+          "popular": true,
+          "features": ["Up to 2,000 affiliates", "50M tracked events/mo", "Advanced fraud detection", "Priority support", "Custom reporting", "3 white-label domains", "API access", "Dedicated account manager"]
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "description": "For large-scale affiliate networks",
+          "features": ["Unlimited affiliates", "Unlimited tracked events", "Enterprise fraud suite", "24/7 dedicated support", "Custom integrations", "Unlimited domains", "SLA guarantee", "On-premise option"]
+        }
+      ]
+    },
+    "platform": {
+      "title": "Content Platform",
+      "plans": [
+        {
+          "name": "Starter",
+          "price": "149",
+          "description": "Launch your content hub",
+          "features": ["1 content hub", "Up to 10,000 readers/mo", "Basic analytics", "Email capture", "Standard SEO tools", "Email support"]
+        },
+        {
+          "name": "Growth",
+          "price": "349",
+          "description": "Scale your content operation",
+          "popular": true,
+          "features": ["3 content hubs", "Up to 100,000 readers/mo", "Advanced analytics", "Newsletter tools", "Advanced SEO suite", "Priority support", "API access", "Custom domain"]
+        },
+        {
+          "name": "Enterprise",
+          "price": "Custom",
+          "description": "For media companies and agencies",
+          "features": ["Unlimited hubs", "Unlimited readers", "Enterprise analytics", "Full monetization suite", "White-label everything", "Dedicated support", "Custom development", "SLA guarantee"]
+        }
+      ]
+    },
+    "cta": "Get Started",
+    "ctaEnterprise": "Contact Sales",
+    "popular": "Most Popular"
+  },
+  "blog": {
+    "title": "Insights & Resources",
+    "subtitle": "Deep dives into affiliate marketing, content strategy, and growth tactics.",
+    "readMore": "Read Article",
+    "backToBlog": "Back to Blog",
+    "publishedOn": "Published on",
+    "minRead": "min read",
+    "noPosts": "No posts yet. Check back soon!"
+  },
+  "cases": {
+    "title": "Customer Success Stories",
+    "subtitle": "Real results from real businesses. See how our clients are growing with Scalaro.",
+    "finoglyad": {
+      "title": "Finoglyad: Ukraine's #1 Finance Portal",
+      "description": "How a financial comparison site scaled to 50,000+ monthly readers using Scalaro's Content Platform.",
+      "industry": "Fintech / Media",
+      "country": "Ukraine",
+      "since": "2023"
+    }
+  },
+  "admin": {
+    "title": "Blog Admin",
+    "newPost": "New Post",
+    "titleEn": "Title (English)",
+    "titleUa": "Title (Ukrainian)",
+    "contentEn": "Content (English)",
+    "contentUa": "Content (Ukrainian)",
+    "slug": "Slug",
+    "published": "Published",
+    "save": "Save Post",
+    "saved": "Saved!",
+    "error": "Error saving post",
+    "login": "Login to Admin",
+    "email": "Email",
+    "password": "Password",
+    "loginBtn": "Login",
+    "logout": "Logout",
+    "posts": "Blog Posts",
+    "edit": "Edit",
+    "delete": "Delete",
+    "confirmDelete": "Are you sure you want to delete this post?",
+    "excerpt": "Excerpt",
+    "metaDescription": "Meta Description"
+  }
+}
